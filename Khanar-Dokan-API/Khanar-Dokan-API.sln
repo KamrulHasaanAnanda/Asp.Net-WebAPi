@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Khanar-Dokan-API", "Khanar-Dokan-API\Khanar-Dokan-API.csproj", "{AEB65C5A-1C86-4F73-A3D3-D4E8141D60CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEB65C5A-1C86-4F73-A3D3-D4E8141D60CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEB65C5A-1C86-4F73-A3D3-D4E8141D60CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEB65C5A-1C86-4F73-A3D3-D4E8141D60CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEB65C5A-1C86-4F73-A3D3-D4E8141D60CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C62CFFEF-6029-4FEB-9F13-8A68140DFCC7}
+	EndGlobalSection
+EndGlobal
